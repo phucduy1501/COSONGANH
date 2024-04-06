@@ -1,1 +1,1 @@
-# csn-da21ttc-truongphucduy-githubeducation
+# Nghiên cứu sử dụng đánh giá bài tập lập trình tự động bằng github education
